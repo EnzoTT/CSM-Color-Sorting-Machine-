@@ -7,4 +7,4 @@ O CSM é um separador de M&amp;Ms por cor, feito para a disciplina de Oficinas 1
  
  Essa disciplina tem como objetivo o desenvolvimento de um projeto seguindo um cronograma. Os detalhes desse cronograma estão no Relatório.pdf e o cronograma completo está no arquivo CSM(Planejamento).pod.
  
-**Para ver o vídeo do projeto basta clicar nesse link:** https://www.youtube.com/watch?v=wZx9AvO6Ht4.
+**Vídeo do projeto:** https://www.youtube.com/watch?v=wZx9AvO6Ht4.
